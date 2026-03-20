@@ -1,2 +1,3 @@
-# next-chat-app-rt1o
-A real-time chat application for modern development workflows
+# Next Chat App Rt1O
+
+A real-time chat application for modern development workflows.
